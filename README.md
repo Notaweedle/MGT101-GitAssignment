@@ -2,4 +2,4 @@
 the first thing that we made 
 i am a team mate to this file java/thing pogger
 
-added new stuff here
+new text here
